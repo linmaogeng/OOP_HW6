@@ -1,0 +1,36 @@
+Remove-AppxPackage -AllUsers Microsoft.Xbox.TCUI_1.23.28002.0_x64__8wekyb3d8bbwe
+Remove-AppxPackage -AllUsers Microsoft.XboxApp_48.48.7001.0_x64__8wekyb3d8bbwe
+Remove-AppxPackage -AllUsers Microsoft.XboxGameOverlay_1.32.17005.0_x64__8wekyb3d8bbwe
+Remove-AppxPackage -AllUsers Microsoft.XboxGamingOverlay_2.26.14003.0_x64__8wekyb3d8bbwe
+Remove-AppxPackage -AllUsers Microsoft.XboxIdentityProvider_12.50.6001.0_x64__8wekyb3d8bbwe
+Remove-AppxPackage -AllUsers Microsoft.XboxSpeechToTextOverlay_1.17.29001.0_x64__8wekyb3d8bbwe
+
+Remove-AppxPackage -AllUsers Microsoft.MicrosoftSolitaireCollection_4.2.11280.0_x86__8wekyb3d8bbwe
+
+
+Remove-AppxPackage -AllUsers Microsoft.Windows.Cortana_1.12.3.18362_neutral_neutral_cw5n1h2txyewy   
+Remove-AppxPackage -AllUsers Microsoft.Office.OneNote_16001.11126.20076.0_x64__8wekyb3d8bbwe  
+Remove-AppxPackage -AllUsers Microsoft.Windows.NarratorQuickStart_10.0.18362.1_neutral_neutral_8wekyb3d8bbwe  
+Remove-AppxPackage -AllUsers Microsoft.Windows.ParentalControls_1000.18362.1.0_neutral_neutral_cw5n1h2txyewy    
+Remove-AppxPackage -AllUsers Microsoft.Windows.PeopleExperienceHost_10.0.18362.1_neutral_neutral_cw5n1h2txyewy   
+Remove-AppxPackage -AllUsers Microsoft.XboxGameCallableUI_1000.18362.1.0_neutral_neutral_cw5n1h2txyewy   
+Remove-AppxPackage -AllUsers Microsoft.Services.Store.Engagement_10.0.18101.0_x86__8wekyb3d8bbwe                 
+Remove-AppxPackage -AllUsers Microsoft.Services.Store.Engagement_10.0.18101.0_x64__8wekyb3d8bbwe        
+Remove-AppxPackage -AllUsers Microsoft.GetHelp_10.1706.13331.0_x64__8wekyb3d8bbwe
+Remove-AppxPackage -AllUsers Microsoft.Getstarted_7.3.20251.0_x64__8wekyb3d8bbwe
+Remove-AppxPackage -AllUsers Microsoft.Messaging_8wekyb3d8bbwe
+Remove-AppxPackage -AllUsers Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe
+Remove-AppxPackage -AllUsers Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe
+Remove-AppxPackage -AllUsers Microsoft.Office.OneNote_8wekyb3d8bbwe
+Remove-AppxPackage -AllUsers Microsoft.People_10.1812.10232.0_x64__8wekyb3d8bbwe
+Remove-AppxPackage -AllUsers Microsoft.SkypeApp_14.35.152.0_x64__kzf8qxf38zg5c
+Remove-AppxPackage -AllUsers Microsoft.StorePurchaseApp_11811.1001.18.0_x64__8wekyb3d8bbwe
+Remove-AppxPackage -AllUsers Microsoft.Wallet_2.4.18324.0_x64__8wekyb3d8bbwe
+Remove-AppxPackage -AllUsers Microsoft.WindowsFeedbackHub_1.1811.10571.0_x64__8wekyb3d8bbwe
+Remove-AppxPackage -AllUsers Microsoft.YourPhone_0.0.13313.0_x64__8wekyb3d8bbwe
+Remove-AppxPackage -AllUsers Microsoft.WindowsAlarms_10.1812.10043.0_x64__8wekyb3d8bbwe
+Remove-AppxPackage -AllUsers Microsoft.OneConnect_5.1902.361.0_x64__8wekyb3d8bbwe
+
+
+
+
